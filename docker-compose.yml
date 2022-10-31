@@ -1,0 +1,10 @@
+# version: "3.7"
+
+# services:
+#   go_env:
+#     image: golang:alpine
+#     container_name: beegoapp
+#     working_dir: /src
+#     volumes:
+#       - $HOME/go/go-web-docker/:/src/
+#     command: tail -f /dev/null

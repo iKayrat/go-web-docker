@@ -18,7 +18,7 @@ type mainController struct {
 func (c *mainController) Get() {
 	operation := c.Ctx.Input.Param(":operation")
 	num1, _ := strconv.Atoi(c.Ctx.Input.Param(":num1"))
-	num2, _ := strconv.Atoi(c.Ctx.Input.Param(":num1"))
+	num2, _ := strconv.Atoi(c.Ctx.Input.Param(":num2"))
 
 	c.Data["operation"] = operation
 	c.Data["num1"] = num1

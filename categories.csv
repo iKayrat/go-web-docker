@@ -1,0 +1,1019 @@
+id,name,slug,created_at,updated_at
+1,Hand Accessories,hand-accessories,NULL,NULL
+2,Hair Accessories,hair-accessories,NULL,NULL
+3,School,school,NULL,NULL
+4,Baby Products,baby-products,NULL,NULL
+5,Bags,bags,NULL,NULL
+6,Belts,belts,NULL,NULL
+7,Eye wear,eye-wear,NULL,NULL
+8,Scarves,scarves,NULL,NULL
+9,Technology,technology,NULL,NULL
+10,Luggage,luggage,NULL,NULL
+11,Suit Accessories,suit-accessories,NULL,NULL
+12,Head Accessories,head-accessories,NULL,NULL
+13,Beauty Accessories,beauty-accessories,NULL,NULL
+14,Jewellery,jewellery,NULL,NULL
+15,Cosmetics Kit,cosmetics-kit,NULL,NULL
+16,Eyes,eyes,NULL,NULL
+17,Face,face,NULL,NULL
+18,Lips,lips,NULL,NULL
+19,Nails,nails,NULL,NULL
+20,Eau De Perfum,eau-de-perfum,NULL,NULL
+21,Mist & Spray,mist-&-spray,NULL,NULL
+22,Haircare,haircare,NULL,NULL
+23,Skincare,skincare,NULL,NULL
+24,Infants,infants,NULL,NULL
+25,Pajama,pajama,NULL,NULL
+26,Pre-Teens,pre-teens,NULL,NULL
+27,Teens,teens,NULL,NULL
+28,Toddlers,toddlers,NULL,NULL
+29,Beach Wear,beach-wear,NULL,NULL
+30,Body,body,NULL,NULL
+31,Bottoms,bottoms,NULL,NULL
+32,Outwear,outwear,NULL,NULL
+33,Plus Size,plus-size,NULL,NULL
+34,Shirt,shirt,NULL,NULL
+35,Sportswear,sportswear,NULL,NULL
+36,T-Shirts,t-shirts,NULL,NULL
+37,Clothing Set,clothing-set,NULL,NULL
+38,Dresses,dresses,NULL,NULL
+39,Jumpsuits,jumpsuits,NULL,NULL
+40,Maternity,maternity,NULL,NULL
+41,Tops,tops,NULL,NULL
+42,Casual Shoes,casual-shoes,NULL,NULL
+43,Sandals,sandals,NULL,NULL
+44,Shoe Care,shoe-care,NULL,NULL
+45,Sports Shoes,sports-shoes,NULL,NULL
+46,Boots,boots,NULL,NULL
+47,Formal Shoes,formal-shoes,NULL,NULL
+48,Slippers,slippers,NULL,NULL
+49,Flats,flats,NULL,NULL
+50,Heels,heels,NULL,NULL
+51,Wedges,wedges,NULL,NULL
+52,Free Item Gift,free-item-gift,NULL,NULL
+53,Hand Accessories,hand-accessories,NULL,NULL
+54,Hair Accessories,hair-accessories,NULL,NULL
+55,School,school,NULL,NULL
+56,Baby Products,baby-products,NULL,NULL
+57,Bags,bags,NULL,NULL
+58,Belts,belts,NULL,NULL
+59,Eye wear,eye-wear,NULL,NULL
+60,Scarves,scarves,NULL,NULL
+61,Technology,technology,NULL,NULL
+62,Luggage,luggage,NULL,NULL
+63,Suit Accessories,suit-accessories,NULL,NULL
+64,Head Accessories,head-accessories,NULL,NULL
+65,Beauty Accessories,beauty-accessories,NULL,NULL
+66,Jewellery,jewellery,NULL,NULL
+67,Cosmetics Kit,cosmetics-kit,NULL,NULL
+68,Eyes,eyes,NULL,NULL
+69,Face,face,NULL,NULL
+70,Lips,lips,NULL,NULL
+71,Nails,nails,NULL,NULL
+72,Eau De Perfum,eau-de-perfum,NULL,NULL
+73,Mist & Spray,mist-&-spray,NULL,NULL
+74,Haircare,haircare,NULL,NULL
+75,Skincare,skincare,NULL,NULL
+76,Infants,infants,NULL,NULL
+77,Pajama,pajama,NULL,NULL
+78,Pre-Teens,pre-teens,NULL,NULL
+79,Teens,teens,NULL,NULL
+80,Toddlers,toddlers,NULL,NULL
+81,Beach Wear,beach-wear,NULL,NULL
+82,Body,body,NULL,NULL
+83,Bottoms,bottoms,NULL,NULL
+84,Outwear,outwear,NULL,NULL
+85,Plus Size,plus-size,NULL,NULL
+86,Shirt,shirt,NULL,NULL
+87,Sportswear,sportswear,NULL,NULL
+88,T-Shirts,t-shirts,NULL,NULL
+89,Clothing Set,clothing-set,NULL,NULL
+90,Dresses,dresses,NULL,NULL
+91,Jumpsuits,jumpsuits,NULL,NULL
+92,Maternity,maternity,NULL,NULL
+93,Tops,tops,NULL,NULL
+94,Casual Shoes,casual-shoes,NULL,NULL
+95,Sandals,sandals,NULL,NULL
+96,Shoe Care,shoe-care,NULL,NULL
+97,Sports Shoes,sports-shoes,NULL,NULL
+98,Boots,boots,NULL,NULL
+99,Formal Shoes,formal-shoes,NULL,NULL
+100,Slippers,slippers,NULL,NULL
+101,Flats,flats,NULL,NULL
+102,Heels,heels,NULL,NULL
+103,Wedges,wedges,NULL,NULL
+104,Free Item Gift,free-item-gift,NULL,NULL
+105,Hand Accessories,hand-accessories,NULL,NULL
+106,Hair Accessories,hair-accessories,NULL,NULL
+107,School,school,NULL,NULL
+108,Baby Products,baby-products,NULL,NULL
+109,Bags,bags,NULL,NULL
+110,Belts,belts,NULL,NULL
+111,Eye wear,eye-wear,NULL,NULL
+112,Scarves,scarves,NULL,NULL
+113,Technology,technology,NULL,NULL
+114,Luggage,luggage,NULL,NULL
+115,Suit Accessories,suit-accessories,NULL,NULL
+116,Head Accessories,head-accessories,NULL,NULL
+117,Beauty Accessories,beauty-accessories,NULL,NULL
+118,Jewellery,jewellery,NULL,NULL
+119,Cosmetics Kit,cosmetics-kit,NULL,NULL
+120,Eyes,eyes,NULL,NULL
+121,Face,face,NULL,NULL
+122,Lips,lips,NULL,NULL
+123,Nails,nails,NULL,NULL
+124,Eau De Perfum,eau-de-perfum,NULL,NULL
+125,Mist & Spray,mist-&-spray,NULL,NULL
+126,Haircare,haircare,NULL,NULL
+127,Skincare,skincare,NULL,NULL
+128,Infants,infants,NULL,NULL
+129,Pajama,pajama,NULL,NULL
+130,Pre-Teens,pre-teens,NULL,NULL
+131,Teens,teens,NULL,NULL
+132,Toddlers,toddlers,NULL,NULL
+133,Beach Wear,beach-wear,NULL,NULL
+134,Body,body,NULL,NULL
+135,Bottoms,bottoms,NULL,NULL
+136,Outwear,outwear,NULL,NULL
+137,Plus Size,plus-size,NULL,NULL
+138,Shirt,shirt,NULL,NULL
+139,Sportswear,sportswear,NULL,NULL
+140,T-Shirts,t-shirts,NULL,NULL
+141,Clothing Set,clothing-set,NULL,NULL
+142,Dresses,dresses,NULL,NULL
+143,Jumpsuits,jumpsuits,NULL,NULL
+144,Maternity,maternity,NULL,NULL
+145,Tops,tops,NULL,NULL
+146,Casual Shoes,casual-shoes,NULL,NULL
+147,Sandals,sandals,NULL,NULL
+148,Shoe Care,shoe-care,NULL,NULL
+149,Sports Shoes,sports-shoes,NULL,NULL
+150,Boots,boots,NULL,NULL
+151,Formal Shoes,formal-shoes,NULL,NULL
+152,Slippers,slippers,NULL,NULL
+153,Flats,flats,NULL,NULL
+154,Heels,heels,NULL,NULL
+155,Wedges,wedges,NULL,NULL
+156,Free Item Gift,free-item-gift,NULL,NULL
+157,Hand Accessories,hand-accessories,NULL,NULL
+158,Hair Accessories,hair-accessories,NULL,NULL
+159,School,school,NULL,NULL
+160,Baby Products,baby-products,NULL,NULL
+161,Bags,bags,NULL,NULL
+162,Belts,belts,NULL,NULL
+163,Eye wear,eye-wear,NULL,NULL
+164,Scarves,scarves,NULL,NULL
+165,Technology,technology,NULL,NULL
+166,Luggage,luggage,NULL,NULL
+167,Suit Accessories,suit-accessories,NULL,NULL
+168,Head Accessories,head-accessories,NULL,NULL
+169,Beauty Accessories,beauty-accessories,NULL,NULL
+170,Jewellery,jewellery,NULL,NULL
+171,Cosmetics Kit,cosmetics-kit,NULL,NULL
+172,Eyes,eyes,NULL,NULL
+173,Face,face,NULL,NULL
+174,Lips,lips,NULL,NULL
+175,Nails,nails,NULL,NULL
+176,Eau De Perfum,eau-de-perfum,NULL,NULL
+177,Mist & Spray,mist-&-spray,NULL,NULL
+178,Haircare,haircare,NULL,NULL
+179,Skincare,skincare,NULL,NULL
+180,Infants,infants,NULL,NULL
+181,Pajama,pajama,NULL,NULL
+182,Pre-Teens,pre-teens,NULL,NULL
+183,Teens,teens,NULL,NULL
+184,Toddlers,toddlers,NULL,NULL
+185,Beach Wear,beach-wear,NULL,NULL
+186,Body,body,NULL,NULL
+187,Bottoms,bottoms,NULL,NULL
+188,Outwear,outwear,NULL,NULL
+189,Plus Size,plus-size,NULL,NULL
+190,Shirt,shirt,NULL,NULL
+191,Sportswear,sportswear,NULL,NULL
+192,T-Shirts,t-shirts,NULL,NULL
+193,Clothing Set,clothing-set,NULL,NULL
+194,Dresses,dresses,NULL,NULL
+195,Jumpsuits,jumpsuits,NULL,NULL
+196,Maternity,maternity,NULL,NULL
+197,Tops,tops,NULL,NULL
+198,Casual Shoes,casual-shoes,NULL,NULL
+199,Sandals,sandals,NULL,NULL
+200,Shoe Care,shoe-care,NULL,NULL
+201,Sports Shoes,sports-shoes,NULL,NULL
+202,Boots,boots,NULL,NULL
+203,Formal Shoes,formal-shoes,NULL,NULL
+204,Slippers,slippers,NULL,NULL
+205,Flats,flats,NULL,NULL
+206,Heels,heels,NULL,NULL
+207,Wedges,wedges,NULL,NULL
+208,Free Item Gift,free-item-gift,NULL,NULL
+209,Hand Accessories,hand-accessories,NULL,NULL
+210,Hair Accessories,hair-accessories,NULL,NULL
+211,School,school,NULL,NULL
+212,Baby Products,baby-products,NULL,NULL
+213,Bags,bags,NULL,NULL
+214,Belts,belts,NULL,NULL
+215,Eye wear,eye-wear,NULL,NULL
+216,Scarves,scarves,NULL,NULL
+217,Technology,technology,NULL,NULL
+218,Luggage,luggage,NULL,NULL
+219,Suit Accessories,suit-accessories,NULL,NULL
+220,Head Accessories,head-accessories,NULL,NULL
+221,Beauty Accessories,beauty-accessories,NULL,NULL
+222,Jewellery,jewellery,NULL,NULL
+223,Cosmetics Kit,cosmetics-kit,NULL,NULL
+224,Eyes,eyes,NULL,NULL
+225,Face,face,NULL,NULL
+226,Lips,lips,NULL,NULL
+227,Nails,nails,NULL,NULL
+228,Eau De Perfum,eau-de-perfum,NULL,NULL
+229,Mist & Spray,mist-&-spray,NULL,NULL
+230,Haircare,haircare,NULL,NULL
+231,Skincare,skincare,NULL,NULL
+232,Infants,infants,NULL,NULL
+233,Pajama,pajama,NULL,NULL
+234,Pre-Teens,pre-teens,NULL,NULL
+235,Teens,teens,NULL,NULL
+236,Toddlers,toddlers,NULL,NULL
+237,Beach Wear,beach-wear,NULL,NULL
+238,Body,body,NULL,NULL
+239,Bottoms,bottoms,NULL,NULL
+240,Outwear,outwear,NULL,NULL
+241,Plus Size,plus-size,NULL,NULL
+242,Shirt,shirt,NULL,NULL
+243,Sportswear,sportswear,NULL,NULL
+244,T-Shirts,t-shirts,NULL,NULL
+245,Clothing Set,clothing-set,NULL,NULL
+246,Dresses,dresses,NULL,NULL
+247,Jumpsuits,jumpsuits,NULL,NULL
+248,Maternity,maternity,NULL,NULL
+249,Tops,tops,NULL,NULL
+250,Casual Shoes,casual-shoes,NULL,NULL
+251,Sandals,sandals,NULL,NULL
+252,Shoe Care,shoe-care,NULL,NULL
+253,Sports Shoes,sports-shoes,NULL,NULL
+254,Boots,boots,NULL,NULL
+255,Formal Shoes,formal-shoes,NULL,NULL
+256,Slippers,slippers,NULL,NULL
+257,Flats,flats,NULL,NULL
+258,Heels,heels,NULL,NULL
+259,Wedges,wedges,NULL,NULL
+260,Free Item Gift,free-item-gift,NULL,NULL
+261,Hand Accessories,hand-accessories,NULL,NULL
+262,Hair Accessories,hair-accessories,NULL,NULL
+263,School,school,NULL,NULL
+264,Baby Products,baby-products,NULL,NULL
+265,Bags,bags,NULL,NULL
+266,Belts,belts,NULL,NULL
+267,Eye wear,eye-wear,NULL,NULL
+268,Scarves,scarves,NULL,NULL
+269,Technology,technology,NULL,NULL
+270,Luggage,luggage,NULL,NULL
+271,Suit Accessories,suit-accessories,NULL,NULL
+272,Head Accessories,head-accessories,NULL,NULL
+273,Beauty Accessories,beauty-accessories,NULL,NULL
+274,Jewellery,jewellery,NULL,NULL
+275,Cosmetics Kit,cosmetics-kit,NULL,NULL
+276,Eyes,eyes,NULL,NULL
+277,Face,face,NULL,NULL
+278,Lips,lips,NULL,NULL
+279,Nails,nails,NULL,NULL
+280,Eau De Perfum,eau-de-perfum,NULL,NULL
+281,Mist & Spray,mist-&-spray,NULL,NULL
+282,Haircare,haircare,NULL,NULL
+283,Skincare,skincare,NULL,NULL
+284,Infants,infants,NULL,NULL
+285,Pajama,pajama,NULL,NULL
+286,Pre-Teens,pre-teens,NULL,NULL
+287,Teens,teens,NULL,NULL
+288,Toddlers,toddlers,NULL,NULL
+289,Beach Wear,beach-wear,NULL,NULL
+290,Body,body,NULL,NULL
+291,Bottoms,bottoms,NULL,NULL
+292,Outwear,outwear,NULL,NULL
+293,Plus Size,plus-size,NULL,NULL
+294,Shirt,shirt,NULL,NULL
+295,Sportswear,sportswear,NULL,NULL
+296,T-Shirts,t-shirts,NULL,NULL
+297,Clothing Set,clothing-set,NULL,NULL
+298,Dresses,dresses,NULL,NULL
+299,Jumpsuits,jumpsuits,NULL,NULL
+300,Maternity,maternity,NULL,NULL
+301,Tops,tops,NULL,NULL
+302,Casual Shoes,casual-shoes,NULL,NULL
+303,Sandals,sandals,NULL,NULL
+304,Shoe Care,shoe-care,NULL,NULL
+305,Sports Shoes,sports-shoes,NULL,NULL
+306,Boots,boots,NULL,NULL
+307,Formal Shoes,formal-shoes,NULL,NULL
+308,Slippers,slippers,NULL,NULL
+309,Flats,flats,NULL,NULL
+310,Heels,heels,NULL,NULL
+311,Wedges,wedges,NULL,NULL
+312,Free Item Gift,free-item-gift,NULL,NULL
+313,Hand Accessories,hand-accessories,NULL,NULL
+314,Hair Accessories,hair-accessories,NULL,NULL
+315,School,school,NULL,NULL
+316,Baby Products,baby-products,NULL,NULL
+317,Bags,bags,NULL,NULL
+318,Belts,belts,NULL,NULL
+319,Eye wear,eye-wear,NULL,NULL
+320,Scarves,scarves,NULL,NULL
+321,Technology,technology,NULL,NULL
+322,Luggage,luggage,NULL,NULL
+323,Suit Accessories,suit-accessories,NULL,NULL
+324,Head Accessories,head-accessories,NULL,NULL
+325,Beauty Accessories,beauty-accessories,NULL,NULL
+326,Jewellery,jewellery,NULL,NULL
+327,Cosmetics Kit,cosmetics-kit,NULL,NULL
+328,Eyes,eyes,NULL,NULL
+329,Face,face,NULL,NULL
+330,Lips,lips,NULL,NULL
+331,Nails,nails,NULL,NULL
+332,Eau De Perfum,eau-de-perfum,NULL,NULL
+333,Mist & Spray,mist-&-spray,NULL,NULL
+334,Haircare,haircare,NULL,NULL
+335,Skincare,skincare,NULL,NULL
+336,Infants,infants,NULL,NULL
+337,Pajama,pajama,NULL,NULL
+338,Pre-Teens,pre-teens,NULL,NULL
+339,Teens,teens,NULL,NULL
+340,Toddlers,toddlers,NULL,NULL
+341,Beach Wear,beach-wear,NULL,NULL
+342,Body,body,NULL,NULL
+343,Bottoms,bottoms,NULL,NULL
+344,Outwear,outwear,NULL,NULL
+345,Plus Size,plus-size,NULL,NULL
+346,Shirt,shirt,NULL,NULL
+347,Sportswear,sportswear,NULL,NULL
+348,T-Shirts,t-shirts,NULL,NULL
+349,Clothing Set,clothing-set,NULL,NULL
+350,Dresses,dresses,NULL,NULL
+351,Jumpsuits,jumpsuits,NULL,NULL
+352,Maternity,maternity,NULL,NULL
+353,Tops,tops,NULL,NULL
+354,Casual Shoes,casual-shoes,NULL,NULL
+355,Sandals,sandals,NULL,NULL
+356,Shoe Care,shoe-care,NULL,NULL
+357,Sports Shoes,sports-shoes,NULL,NULL
+358,Boots,boots,NULL,NULL
+359,Formal Shoes,formal-shoes,NULL,NULL
+360,Slippers,slippers,NULL,NULL
+361,Flats,flats,NULL,NULL
+362,Heels,heels,NULL,NULL
+363,Wedges,wedges,NULL,NULL
+364,Free Item Gift,free-item-gift,NULL,NULL
+365,Hand Accessories,hand-accessories,NULL,NULL
+366,Hair Accessories,hair-accessories,NULL,NULL
+367,School,school,NULL,NULL
+368,Baby Products,baby-products,NULL,NULL
+369,Bags,bags,NULL,NULL
+370,Belts,belts,NULL,NULL
+371,Eye wear,eye-wear,NULL,NULL
+372,Scarves,scarves,NULL,NULL
+373,Technology,technology,NULL,NULL
+374,Luggage,luggage,NULL,NULL
+375,Suit Accessories,suit-accessories,NULL,NULL
+376,Head Accessories,head-accessories,NULL,NULL
+377,Beauty Accessories,beauty-accessories,NULL,NULL
+378,Jewellery,jewellery,NULL,NULL
+379,Cosmetics Kit,cosmetics-kit,NULL,NULL
+380,Eyes,eyes,NULL,NULL
+381,Face,face,NULL,NULL
+382,Lips,lips,NULL,NULL
+383,Nails,nails,NULL,NULL
+384,Eau De Perfum,eau-de-perfum,NULL,NULL
+385,Mist & Spray,mist-&-spray,NULL,NULL
+386,Haircare,haircare,NULL,NULL
+387,Skincare,skincare,NULL,NULL
+388,Infants,infants,NULL,NULL
+389,Pajama,pajama,NULL,NULL
+390,Pre-Teens,pre-teens,NULL,NULL
+391,Teens,teens,NULL,NULL
+392,Toddlers,toddlers,NULL,NULL
+393,Beach Wear,beach-wear,NULL,NULL
+394,Body,body,NULL,NULL
+395,Bottoms,bottoms,NULL,NULL
+396,Outwear,outwear,NULL,NULL
+397,Plus Size,plus-size,NULL,NULL
+398,Shirt,shirt,NULL,NULL
+399,Sportswear,sportswear,NULL,NULL
+400,T-Shirts,t-shirts,NULL,NULL
+401,Clothing Set,clothing-set,NULL,NULL
+402,Dresses,dresses,NULL,NULL
+403,Jumpsuits,jumpsuits,NULL,NULL
+404,Maternity,maternity,NULL,NULL
+405,Tops,tops,NULL,NULL
+406,Casual Shoes,casual-shoes,NULL,NULL
+407,Sandals,sandals,NULL,NULL
+408,Shoe Care,shoe-care,NULL,NULL
+409,Sports Shoes,sports-shoes,NULL,NULL
+410,Boots,boots,NULL,NULL
+411,Formal Shoes,formal-shoes,NULL,NULL
+412,Slippers,slippers,NULL,NULL
+413,Flats,flats,NULL,NULL
+414,Heels,heels,NULL,NULL
+415,Wedges,wedges,NULL,NULL
+416,Free Item Gift,free-item-gift,NULL,NULL
+417,Hand Accessories,hand-accessories,NULL,NULL
+418,Hair Accessories,hair-accessories,NULL,NULL
+419,School,school,NULL,NULL
+420,Baby Products,baby-products,NULL,NULL
+421,Bags,bags,NULL,NULL
+422,Belts,belts,NULL,NULL
+423,Eye wear,eye-wear,NULL,NULL
+424,Scarves,scarves,NULL,NULL
+425,Technology,technology,NULL,NULL
+426,Luggage,luggage,NULL,NULL
+427,Suit Accessories,suit-accessories,NULL,NULL
+428,Head Accessories,head-accessories,NULL,NULL
+429,Beauty Accessories,beauty-accessories,NULL,NULL
+430,Jewellery,jewellery,NULL,NULL
+431,Cosmetics Kit,cosmetics-kit,NULL,NULL
+432,Eyes,eyes,NULL,NULL
+433,Face,face,NULL,NULL
+434,Lips,lips,NULL,NULL
+435,Nails,nails,NULL,NULL
+436,Eau De Perfum,eau-de-perfum,NULL,NULL
+437,Mist & Spray,mist-&-spray,NULL,NULL
+438,Haircare,haircare,NULL,NULL
+439,Skincare,skincare,NULL,NULL
+440,Infants,infants,NULL,NULL
+441,Pajama,pajama,NULL,NULL
+442,Pre-Teens,pre-teens,NULL,NULL
+443,Teens,teens,NULL,NULL
+444,Toddlers,toddlers,NULL,NULL
+445,Beach Wear,beach-wear,NULL,NULL
+446,Body,body,NULL,NULL
+447,Bottoms,bottoms,NULL,NULL
+448,Outwear,outwear,NULL,NULL
+449,Plus Size,plus-size,NULL,NULL
+450,Shirt,shirt,NULL,NULL
+451,Sportswear,sportswear,NULL,NULL
+452,T-Shirts,t-shirts,NULL,NULL
+453,Clothing Set,clothing-set,NULL,NULL
+454,Dresses,dresses,NULL,NULL
+455,Jumpsuits,jumpsuits,NULL,NULL
+456,Maternity,maternity,NULL,NULL
+457,Tops,tops,NULL,NULL
+458,Casual Shoes,casual-shoes,NULL,NULL
+459,Sandals,sandals,NULL,NULL
+460,Shoe Care,shoe-care,NULL,NULL
+461,Sports Shoes,sports-shoes,NULL,NULL
+462,Boots,boots,NULL,NULL
+463,Formal Shoes,formal-shoes,NULL,NULL
+464,Slippers,slippers,NULL,NULL
+465,Flats,flats,NULL,NULL
+466,Heels,heels,NULL,NULL
+467,Wedges,wedges,NULL,NULL
+468,Free Item Gift,free-item-gift,NULL,NULL
+469,Hand Accessories,hand-accessories,NULL,NULL
+470,Hair Accessories,hair-accessories,NULL,NULL
+471,School,school,NULL,NULL
+472,Baby Products,baby-products,NULL,NULL
+473,Bags,bags,NULL,NULL
+474,Belts,belts,NULL,NULL
+475,Eye wear,eye-wear,NULL,NULL
+476,Scarves,scarves,NULL,NULL
+477,Technology,technology,NULL,NULL
+478,Luggage,luggage,NULL,NULL
+479,Suit Accessories,suit-accessories,NULL,NULL
+480,Head Accessories,head-accessories,NULL,NULL
+481,Beauty Accessories,beauty-accessories,NULL,NULL
+482,Jewellery,jewellery,NULL,NULL
+483,Cosmetics Kit,cosmetics-kit,NULL,NULL
+484,Eyes,eyes,NULL,NULL
+485,Face,face,NULL,NULL
+486,Lips,lips,NULL,NULL
+487,Nails,nails,NULL,NULL
+488,Eau De Perfum,eau-de-perfum,NULL,NULL
+489,Mist & Spray,mist-&-spray,NULL,NULL
+490,Haircare,haircare,NULL,NULL
+491,Skincare,skincare,NULL,NULL
+492,Infants,infants,NULL,NULL
+493,Pajama,pajama,NULL,NULL
+494,Pre-Teens,pre-teens,NULL,NULL
+495,Teens,teens,NULL,NULL
+496,Toddlers,toddlers,NULL,NULL
+497,Beach Wear,beach-wear,NULL,NULL
+498,Body,body,NULL,NULL
+499,Bottoms,bottoms,NULL,NULL
+500,Outwear,outwear,NULL,NULL
+501,Plus Size,plus-size,NULL,NULL
+502,Shirt,shirt,NULL,NULL
+503,Sportswear,sportswear,NULL,NULL
+504,T-Shirts,t-shirts,NULL,NULL
+505,Clothing Set,clothing-set,NULL,NULL
+506,Dresses,dresses,NULL,NULL
+507,Jumpsuits,jumpsuits,NULL,NULL
+508,Maternity,maternity,NULL,NULL
+509,Tops,tops,NULL,NULL
+510,Casual Shoes,casual-shoes,NULL,NULL
+511,Sandals,sandals,NULL,NULL
+512,Shoe Care,shoe-care,NULL,NULL
+513,Sports Shoes,sports-shoes,NULL,NULL
+514,Boots,boots,NULL,NULL
+515,Formal Shoes,formal-shoes,NULL,NULL
+516,Slippers,slippers,NULL,NULL
+517,Flats,flats,NULL,NULL
+518,Heels,heels,NULL,NULL
+519,Wedges,wedges,NULL,NULL
+520,Free Item Gift,free-item-gift,NULL,NULL
+521,Hand Accessories,hand-accessories,NULL,NULL
+522,Hair Accessories,hair-accessories,NULL,NULL
+523,School,school,NULL,NULL
+524,Baby Products,baby-products,NULL,NULL
+525,Bags,bags,NULL,NULL
+526,Belts,belts,NULL,NULL
+527,Eye wear,eye-wear,NULL,NULL
+528,Scarves,scarves,NULL,NULL
+529,Technology,technology,NULL,NULL
+530,Luggage,luggage,NULL,NULL
+531,Suit Accessories,suit-accessories,NULL,NULL
+532,Head Accessories,head-accessories,NULL,NULL
+533,Beauty Accessories,beauty-accessories,NULL,NULL
+534,Jewellery,jewellery,NULL,NULL
+535,Cosmetics Kit,cosmetics-kit,NULL,NULL
+536,Eyes,eyes,NULL,NULL
+537,Face,face,NULL,NULL
+538,Lips,lips,NULL,NULL
+539,Nails,nails,NULL,NULL
+540,Eau De Perfum,eau-de-perfum,NULL,NULL
+541,Mist & Spray,mist-&-spray,NULL,NULL
+542,Haircare,haircare,NULL,NULL
+543,Skincare,skincare,NULL,NULL
+544,Infants,infants,NULL,NULL
+545,Pajama,pajama,NULL,NULL
+546,Pre-Teens,pre-teens,NULL,NULL
+547,Teens,teens,NULL,NULL
+548,Toddlers,toddlers,NULL,NULL
+549,Beach Wear,beach-wear,NULL,NULL
+550,Body,body,NULL,NULL
+551,Bottoms,bottoms,NULL,NULL
+552,Outwear,outwear,NULL,NULL
+553,Plus Size,plus-size,NULL,NULL
+554,Shirt,shirt,NULL,NULL
+555,Sportswear,sportswear,NULL,NULL
+556,T-Shirts,t-shirts,NULL,NULL
+557,Clothing Set,clothing-set,NULL,NULL
+558,Dresses,dresses,NULL,NULL
+559,Jumpsuits,jumpsuits,NULL,NULL
+560,Maternity,maternity,NULL,NULL
+561,Tops,tops,NULL,NULL
+562,Casual Shoes,casual-shoes,NULL,NULL
+563,Sandals,sandals,NULL,NULL
+564,Shoe Care,shoe-care,NULL,NULL
+565,Sports Shoes,sports-shoes,NULL,NULL
+566,Boots,boots,NULL,NULL
+567,Formal Shoes,formal-shoes,NULL,NULL
+568,Slippers,slippers,NULL,NULL
+569,Flats,flats,NULL,NULL
+570,Heels,heels,NULL,NULL
+571,Wedges,wedges,NULL,NULL
+572,Free Item Gift,free-item-gift,NULL,NULL
+573,Hand Accessories,hand-accessories,NULL,NULL
+574,Hair Accessories,hair-accessories,NULL,NULL
+575,School,school,NULL,NULL
+576,Baby Products,baby-products,NULL,NULL
+577,Bags,bags,NULL,NULL
+578,Belts,belts,NULL,NULL
+579,Eye wear,eye-wear,NULL,NULL
+580,Scarves,scarves,NULL,NULL
+581,Technology,technology,NULL,NULL
+582,Luggage,luggage,NULL,NULL
+583,Suit Accessories,suit-accessories,NULL,NULL
+584,Head Accessories,head-accessories,NULL,NULL
+585,Beauty Accessories,beauty-accessories,NULL,NULL
+586,Jewellery,jewellery,NULL,NULL
+587,Cosmetics Kit,cosmetics-kit,NULL,NULL
+588,Eyes,eyes,NULL,NULL
+589,Face,face,NULL,NULL
+590,Lips,lips,NULL,NULL
+591,Nails,nails,NULL,NULL
+592,Eau De Perfum,eau-de-perfum,NULL,NULL
+593,Mist & Spray,mist-&-spray,NULL,NULL
+594,Haircare,haircare,NULL,NULL
+595,Skincare,skincare,NULL,NULL
+596,Infants,infants,NULL,NULL
+597,Pajama,pajama,NULL,NULL
+598,Pre-Teens,pre-teens,NULL,NULL
+599,Teens,teens,NULL,NULL
+600,Toddlers,toddlers,NULL,NULL
+601,Beach Wear,beach-wear,NULL,NULL
+602,Body,body,NULL,NULL
+603,Bottoms,bottoms,NULL,NULL
+604,Outwear,outwear,NULL,NULL
+605,Plus Size,plus-size,NULL,NULL
+606,Shirt,shirt,NULL,NULL
+607,Sportswear,sportswear,NULL,NULL
+608,T-Shirts,t-shirts,NULL,NULL
+609,Clothing Set,clothing-set,NULL,NULL
+610,Dresses,dresses,NULL,NULL
+611,Jumpsuits,jumpsuits,NULL,NULL
+612,Maternity,maternity,NULL,NULL
+613,Tops,tops,NULL,NULL
+614,Casual Shoes,casual-shoes,NULL,NULL
+615,Sandals,sandals,NULL,NULL
+616,Shoe Care,shoe-care,NULL,NULL
+617,Sports Shoes,sports-shoes,NULL,NULL
+618,Boots,boots,NULL,NULL
+619,Formal Shoes,formal-shoes,NULL,NULL
+620,Slippers,slippers,NULL,NULL
+621,Flats,flats,NULL,NULL
+622,Heels,heels,NULL,NULL
+623,Wedges,wedges,NULL,NULL
+624,Free Item Gift,free-item-gift,NULL,NULL
+625,Hand Accessories,hand-accessories,NULL,NULL
+626,Hair Accessories,hair-accessories,NULL,NULL
+627,School,school,NULL,NULL
+628,Baby Products,baby-products,NULL,NULL
+629,Bags,bags,NULL,NULL
+630,Belts,belts,NULL,NULL
+631,Eye wear,eye-wear,NULL,NULL
+632,Scarves,scarves,NULL,NULL
+633,Technology,technology,NULL,NULL
+634,Luggage,luggage,NULL,NULL
+635,Suit Accessories,suit-accessories,NULL,NULL
+636,Head Accessories,head-accessories,NULL,NULL
+637,Beauty Accessories,beauty-accessories,NULL,NULL
+638,Jewellery,jewellery,NULL,NULL
+639,Cosmetics Kit,cosmetics-kit,NULL,NULL
+640,Eyes,eyes,NULL,NULL
+641,Face,face,NULL,NULL
+642,Lips,lips,NULL,NULL
+643,Nails,nails,NULL,NULL
+644,Eau De Perfum,eau-de-perfum,NULL,NULL
+645,Mist & Spray,mist-&-spray,NULL,NULL
+646,Haircare,haircare,NULL,NULL
+647,Skincare,skincare,NULL,NULL
+648,Infants,infants,NULL,NULL
+649,Pajama,pajama,NULL,NULL
+650,Pre-Teens,pre-teens,NULL,NULL
+651,Teens,teens,NULL,NULL
+652,Toddlers,toddlers,NULL,NULL
+653,Beach Wear,beach-wear,NULL,NULL
+654,Body,body,NULL,NULL
+655,Bottoms,bottoms,NULL,NULL
+656,Outwear,outwear,NULL,NULL
+657,Plus Size,plus-size,NULL,NULL
+658,Shirt,shirt,NULL,NULL
+659,Sportswear,sportswear,NULL,NULL
+660,T-Shirts,t-shirts,NULL,NULL
+661,Clothing Set,clothing-set,NULL,NULL
+662,Dresses,dresses,NULL,NULL
+663,Jumpsuits,jumpsuits,NULL,NULL
+664,Maternity,maternity,NULL,NULL
+665,Tops,tops,NULL,NULL
+666,Casual Shoes,casual-shoes,NULL,NULL
+667,Sandals,sandals,NULL,NULL
+668,Shoe Care,shoe-care,NULL,NULL
+669,Sports Shoes,sports-shoes,NULL,NULL
+670,Boots,boots,NULL,NULL
+671,Formal Shoes,formal-shoes,NULL,NULL
+672,Slippers,slippers,NULL,NULL
+673,Flats,flats,NULL,NULL
+674,Heels,heels,NULL,NULL
+675,Wedges,wedges,NULL,NULL
+676,Free Item Gift,free-item-gift,NULL,NULL
+677,Hand Accessories,hand-accessories,NULL,NULL
+678,Hair Accessories,hair-accessories,NULL,NULL
+679,School,school,NULL,NULL
+680,Baby Products,baby-products,NULL,NULL
+681,Bags,bags,NULL,NULL
+682,Belts,belts,NULL,NULL
+683,Eye wear,eye-wear,NULL,NULL
+684,Scarves,scarves,NULL,NULL
+685,Technology,technology,NULL,NULL
+686,Luggage,luggage,NULL,NULL
+687,Suit Accessories,suit-accessories,NULL,NULL
+688,Head Accessories,head-accessories,NULL,NULL
+689,Beauty Accessories,beauty-accessories,NULL,NULL
+690,Jewellery,jewellery,NULL,NULL
+691,Cosmetics Kit,cosmetics-kit,NULL,NULL
+692,Eyes,eyes,NULL,NULL
+693,Face,face,NULL,NULL
+694,Lips,lips,NULL,NULL
+695,Nails,nails,NULL,NULL
+696,Eau De Perfum,eau-de-perfum,NULL,NULL
+697,Mist & Spray,mist-&-spray,NULL,NULL
+698,Haircare,haircare,NULL,NULL
+699,Skincare,skincare,NULL,NULL
+700,Infants,infants,NULL,NULL
+701,Pajama,pajama,NULL,NULL
+702,Pre-Teens,pre-teens,NULL,NULL
+703,Teens,teens,NULL,NULL
+704,Toddlers,toddlers,NULL,NULL
+705,Beach Wear,beach-wear,NULL,NULL
+706,Body,body,NULL,NULL
+707,Bottoms,bottoms,NULL,NULL
+708,Outwear,outwear,NULL,NULL
+709,Plus Size,plus-size,NULL,NULL
+710,Shirt,shirt,NULL,NULL
+711,Sportswear,sportswear,NULL,NULL
+712,T-Shirts,t-shirts,NULL,NULL
+713,Clothing Set,clothing-set,NULL,NULL
+714,Dresses,dresses,NULL,NULL
+715,Jumpsuits,jumpsuits,NULL,NULL
+716,Maternity,maternity,NULL,NULL
+717,Tops,tops,NULL,NULL
+718,Casual Shoes,casual-shoes,NULL,NULL
+719,Sandals,sandals,NULL,NULL
+720,Shoe Care,shoe-care,NULL,NULL
+721,Sports Shoes,sports-shoes,NULL,NULL
+722,Boots,boots,NULL,NULL
+723,Formal Shoes,formal-shoes,NULL,NULL
+724,Slippers,slippers,NULL,NULL
+725,Flats,flats,NULL,NULL
+726,Heels,heels,NULL,NULL
+727,Wedges,wedges,NULL,NULL
+728,Free Item Gift,free-item-gift,NULL,NULL
+729,Hand Accessories,hand-accessories,NULL,NULL
+730,Hair Accessories,hair-accessories,NULL,NULL
+731,School,school,NULL,NULL
+732,Baby Products,baby-products,NULL,NULL
+733,Bags,bags,NULL,NULL
+734,Belts,belts,NULL,NULL
+735,Eye wear,eye-wear,NULL,NULL
+736,Scarves,scarves,NULL,NULL
+737,Technology,technology,NULL,NULL
+738,Luggage,luggage,NULL,NULL
+739,Suit Accessories,suit-accessories,NULL,NULL
+740,Head Accessories,head-accessories,NULL,NULL
+741,Beauty Accessories,beauty-accessories,NULL,NULL
+742,Jewellery,jewellery,NULL,NULL
+743,Cosmetics Kit,cosmetics-kit,NULL,NULL
+744,Eyes,eyes,NULL,NULL
+745,Face,face,NULL,NULL
+746,Lips,lips,NULL,NULL
+747,Nails,nails,NULL,NULL
+748,Eau De Perfum,eau-de-perfum,NULL,NULL
+749,Mist & Spray,mist-&-spray,NULL,NULL
+750,Haircare,haircare,NULL,NULL
+751,Skincare,skincare,NULL,NULL
+752,Infants,infants,NULL,NULL
+753,Pajama,pajama,NULL,NULL
+754,Pre-Teens,pre-teens,NULL,NULL
+755,Teens,teens,NULL,NULL
+756,Toddlers,toddlers,NULL,NULL
+757,Beach Wear,beach-wear,NULL,NULL
+758,Body,body,NULL,NULL
+759,Bottoms,bottoms,NULL,NULL
+760,Outwear,outwear,NULL,NULL
+761,Plus Size,plus-size,NULL,NULL
+762,Shirt,shirt,NULL,NULL
+763,Sportswear,sportswear,NULL,NULL
+764,T-Shirts,t-shirts,NULL,NULL
+765,Clothing Set,clothing-set,NULL,NULL
+766,Dresses,dresses,NULL,NULL
+767,Jumpsuits,jumpsuits,NULL,NULL
+768,Maternity,maternity,NULL,NULL
+769,Tops,tops,NULL,NULL
+770,Casual Shoes,casual-shoes,NULL,NULL
+771,Sandals,sandals,NULL,NULL
+772,Shoe Care,shoe-care,NULL,NULL
+773,Sports Shoes,sports-shoes,NULL,NULL
+774,Boots,boots,NULL,NULL
+775,Formal Shoes,formal-shoes,NULL,NULL
+776,Slippers,slippers,NULL,NULL
+777,Flats,flats,NULL,NULL
+778,Heels,heels,NULL,NULL
+779,Wedges,wedges,NULL,NULL
+780,Free Item Gift,free-item-gift,NULL,NULL
+781,Hand Accessories,hand-accessories,NULL,NULL
+782,Hair Accessories,hair-accessories,NULL,NULL
+783,School,school,NULL,NULL
+784,Baby Products,baby-products,NULL,NULL
+785,Bags,bags,NULL,NULL
+786,Belts,belts,NULL,NULL
+787,Eye wear,eye-wear,NULL,NULL
+788,Scarves,scarves,NULL,NULL
+789,Technology,technology,NULL,NULL
+790,Luggage,luggage,NULL,NULL
+791,Suit Accessories,suit-accessories,NULL,NULL
+792,Head Accessories,head-accessories,NULL,NULL
+793,Beauty Accessories,beauty-accessories,NULL,NULL
+794,Jewellery,jewellery,NULL,NULL
+795,Cosmetics Kit,cosmetics-kit,NULL,NULL
+796,Eyes,eyes,NULL,NULL
+797,Face,face,NULL,NULL
+798,Lips,lips,NULL,NULL
+799,Nails,nails,NULL,NULL
+800,Eau De Perfum,eau-de-perfum,NULL,NULL
+801,Mist & Spray,mist-&-spray,NULL,NULL
+802,Haircare,haircare,NULL,NULL
+803,Skincare,skincare,NULL,NULL
+804,Infants,infants,NULL,NULL
+805,Pajama,pajama,NULL,NULL
+806,Pre-Teens,pre-teens,NULL,NULL
+807,Teens,teens,NULL,NULL
+808,Toddlers,toddlers,NULL,NULL
+809,Beach Wear,beach-wear,NULL,NULL
+810,Body,body,NULL,NULL
+811,Bottoms,bottoms,NULL,NULL
+812,Outwear,outwear,NULL,NULL
+813,Plus Size,plus-size,NULL,NULL
+814,Shirt,shirt,NULL,NULL
+815,Sportswear,sportswear,NULL,NULL
+816,T-Shirts,t-shirts,NULL,NULL
+817,Clothing Set,clothing-set,NULL,NULL
+818,Dresses,dresses,NULL,NULL
+819,Jumpsuits,jumpsuits,NULL,NULL
+820,Maternity,maternity,NULL,NULL
+821,Tops,tops,NULL,NULL
+822,Casual Shoes,casual-shoes,NULL,NULL
+823,Sandals,sandals,NULL,NULL
+824,Shoe Care,shoe-care,NULL,NULL
+825,Sports Shoes,sports-shoes,NULL,NULL
+826,Boots,boots,NULL,NULL
+827,Formal Shoes,formal-shoes,NULL,NULL
+828,Slippers,slippers,NULL,NULL
+829,Flats,flats,NULL,NULL
+830,Heels,heels,NULL,NULL
+831,Wedges,wedges,NULL,NULL
+832,Free Item Gift,free-item-gift,NULL,NULL
+833,Hand Accessories,hand-accessories,NULL,NULL
+834,Hair Accessories,hair-accessories,NULL,NULL
+835,School,school,NULL,NULL
+836,Baby Products,baby-products,NULL,NULL
+837,Bags,bags,NULL,NULL
+838,Belts,belts,NULL,NULL
+839,Eye wear,eye-wear,NULL,NULL
+840,Scarves,scarves,NULL,NULL
+841,Technology,technology,NULL,NULL
+842,Luggage,luggage,NULL,NULL
+843,Suit Accessories,suit-accessories,NULL,NULL
+844,Head Accessories,head-accessories,NULL,NULL
+845,Beauty Accessories,beauty-accessories,NULL,NULL
+846,Jewellery,jewellery,NULL,NULL
+847,Cosmetics Kit,cosmetics-kit,NULL,NULL
+848,Eyes,eyes,NULL,NULL
+849,Face,face,NULL,NULL
+850,Lips,lips,NULL,NULL
+851,Nails,nails,NULL,NULL
+852,Eau De Perfum,eau-de-perfum,NULL,NULL
+853,Mist & Spray,mist-&-spray,NULL,NULL
+854,Haircare,haircare,NULL,NULL
+855,Skincare,skincare,NULL,NULL
+856,Infants,infants,NULL,NULL
+857,Pajama,pajama,NULL,NULL
+858,Pre-Teens,pre-teens,NULL,NULL
+859,Teens,teens,NULL,NULL
+860,Toddlers,toddlers,NULL,NULL
+861,Beach Wear,beach-wear,NULL,NULL
+862,Body,body,NULL,NULL
+863,Bottoms,bottoms,NULL,NULL
+864,Outwear,outwear,NULL,NULL
+865,Plus Size,plus-size,NULL,NULL
+866,Shirt,shirt,NULL,NULL
+867,Sportswear,sportswear,NULL,NULL
+868,T-Shirts,t-shirts,NULL,NULL
+869,Clothing Set,clothing-set,NULL,NULL
+870,Dresses,dresses,NULL,NULL
+871,Jumpsuits,jumpsuits,NULL,NULL
+872,Maternity,maternity,NULL,NULL
+873,Tops,tops,NULL,NULL
+874,Casual Shoes,casual-shoes,NULL,NULL
+875,Sandals,sandals,NULL,NULL
+876,Shoe Care,shoe-care,NULL,NULL
+877,Sports Shoes,sports-shoes,NULL,NULL
+878,Boots,boots,NULL,NULL
+879,Formal Shoes,formal-shoes,NULL,NULL
+880,Slippers,slippers,NULL,NULL
+881,Flats,flats,NULL,NULL
+882,Heels,heels,NULL,NULL
+883,Wedges,wedges,NULL,NULL
+884,Free Item Gift,free-item-gift,NULL,NULL
+885,Hand Accessories,hand-accessories,NULL,NULL
+886,Hair Accessories,hair-accessories,NULL,NULL
+887,School,school,NULL,NULL
+888,Baby Products,baby-products,NULL,NULL
+889,Bags,bags,NULL,NULL
+890,Belts,belts,NULL,NULL
+891,Eye wear,eye-wear,NULL,NULL
+892,Scarves,scarves,NULL,NULL
+893,Technology,technology,NULL,NULL
+894,Luggage,luggage,NULL,NULL
+895,Suit Accessories,suit-accessories,NULL,NULL
+896,Head Accessories,head-accessories,NULL,NULL
+897,Beauty Accessories,beauty-accessories,NULL,NULL
+898,Jewellery,jewellery,NULL,NULL
+899,Cosmetics Kit,cosmetics-kit,NULL,NULL
+900,Eyes,eyes,NULL,NULL
+901,Face,face,NULL,NULL
+902,Lips,lips,NULL,NULL
+903,Nails,nails,NULL,NULL
+904,Eau De Perfum,eau-de-perfum,NULL,NULL
+905,Mist & Spray,mist-&-spray,NULL,NULL
+906,Haircare,haircare,NULL,NULL
+907,Skincare,skincare,NULL,NULL
+908,Infants,infants,NULL,NULL
+909,Pajama,pajama,NULL,NULL
+910,Pre-Teens,pre-teens,NULL,NULL
+911,Teens,teens,NULL,NULL
+912,Toddlers,toddlers,NULL,NULL
+913,Beach Wear,beach-wear,NULL,NULL
+914,Body,body,NULL,NULL
+915,Bottoms,bottoms,NULL,NULL
+916,Outwear,outwear,NULL,NULL
+917,Plus Size,plus-size,NULL,NULL
+918,Shirt,shirt,NULL,NULL
+919,Sportswear,sportswear,NULL,NULL
+920,T-Shirts,t-shirts,NULL,NULL
+921,Clothing Set,clothing-set,NULL,NULL
+922,Dresses,dresses,NULL,NULL
+923,Jumpsuits,jumpsuits,NULL,NULL
+924,Maternity,maternity,NULL,NULL
+925,Tops,tops,NULL,NULL
+926,Casual Shoes,casual-shoes,NULL,NULL
+927,Sandals,sandals,NULL,NULL
+928,Shoe Care,shoe-care,NULL,NULL
+929,Sports Shoes,sports-shoes,NULL,NULL
+930,Boots,boots,NULL,NULL
+931,Formal Shoes,formal-shoes,NULL,NULL
+932,Slippers,slippers,NULL,NULL
+933,Flats,flats,NULL,NULL
+934,Heels,heels,NULL,NULL
+935,Wedges,wedges,NULL,NULL
+936,Free Item Gift,free-item-gift,NULL,NULL
+937,Hand Accessories,hand-accessories,NULL,NULL
+938,Hair Accessories,hair-accessories,NULL,NULL
+939,School,school,NULL,NULL
+940,Baby Products,baby-products,NULL,NULL
+941,Bags,bags,NULL,NULL
+942,Belts,belts,NULL,NULL
+943,Eye wear,eye-wear,NULL,NULL
+944,Scarves,scarves,NULL,NULL
+945,Technology,technology,NULL,NULL
+946,Luggage,luggage,NULL,NULL
+947,Suit Accessories,suit-accessories,NULL,NULL
+948,Head Accessories,head-accessories,NULL,NULL
+949,Beauty Accessories,beauty-accessories,NULL,NULL
+950,Jewellery,jewellery,NULL,NULL
+951,Cosmetics Kit,cosmetics-kit,NULL,NULL
+952,Eyes,eyes,NULL,NULL
+953,Face,face,NULL,NULL
+954,Lips,lips,NULL,NULL
+955,Nails,nails,NULL,NULL
+956,Eau De Perfum,eau-de-perfum,NULL,NULL
+957,Mist & Spray,mist-&-spray,NULL,NULL
+958,Haircare,haircare,NULL,NULL
+959,Skincare,skincare,NULL,NULL
+960,Infants,infants,NULL,NULL
+961,Pajama,pajama,NULL,NULL
+962,Pre-Teens,pre-teens,NULL,NULL
+963,Teens,teens,NULL,NULL
+964,Toddlers,toddlers,NULL,NULL
+965,Beach Wear,beach-wear,NULL,NULL
+966,Body,body,NULL,NULL
+967,Bottoms,bottoms,NULL,NULL
+968,Outwear,outwear,NULL,NULL
+969,Plus Size,plus-size,NULL,NULL
+970,Shirt,shirt,NULL,NULL
+971,Sportswear,sportswear,NULL,NULL
+972,T-Shirts,t-shirts,NULL,NULL
+973,Clothing Set,clothing-set,NULL,NULL
+974,Dresses,dresses,NULL,NULL
+975,Jumpsuits,jumpsuits,NULL,NULL
+976,Maternity,maternity,NULL,NULL
+977,Tops,tops,NULL,NULL
+978,Casual Shoes,casual-shoes,NULL,NULL
+979,Sandals,sandals,NULL,NULL
+980,Shoe Care,shoe-care,NULL,NULL
+981,Sports Shoes,sports-shoes,NULL,NULL
+982,Boots,boots,NULL,NULL
+983,Formal Shoes,formal-shoes,NULL,NULL
+984,Slippers,slippers,NULL,NULL
+985,Flats,flats,NULL,NULL
+986,Heels,heels,NULL,NULL
+987,Wedges,wedges,NULL,NULL
+988,Free Item Gift,free-item-gift,NULL,NULL
+989,Hand Accessories,hand-accessories,NULL,NULL
+990,Hair Accessories,hair-accessories,NULL,NULL
+991,School,school,NULL,NULL
+992,Baby Products,baby-products,NULL,NULL
+993,Bags,bags,NULL,NULL
+994,Belts,belts,NULL,NULL
+995,Eye wear,eye-wear,NULL,NULL
+996,Scarves,scarves,NULL,NULL
+997,Technology,technology,NULL,NULL
+998,Luggage,luggage,NULL,NULL
+999,Suit Accessories,suit-accessories,NULL,NULL
+1000,Head Accessories,head-accessories,NULL,NULL
+1001,Beauty Accessories,beauty-accessories,NULL,NULL
+1002,Jewellery,jewellery,NULL,NULL
+1003,Cosmetics Kit,cosmetics-kit,NULL,NULL
+1004,Eyes,eyes,NULL,NULL
+1005,Face,face,NULL,NULL
+1006,Lips,lips,NULL,NULL
+1007,Nails,nails,NULL,NULL
+1008,Eau De Perfum,eau-de-perfum,NULL,NULL
+1009,Mist & Spray,mist-&-spray,NULL,NULL
+1010,Haircare,haircare,NULL,NULL
+1011,Skincare,skincare,NULL,NULL
+1012,Infants,infants,NULL,NULL
+1013,Pajama,pajama,NULL,NULL
+1014,Pre-Teens,pre-teens,NULL,NULL
+1015,Teens,teens,NULL,NULL
+1016,Toddlers,toddlers,NULL,NULL
+1017,Beach Wear,beach-wear,NULL,NULL
+1018,Body,body,NULL,NULL
